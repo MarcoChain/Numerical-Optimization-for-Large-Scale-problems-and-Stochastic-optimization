@@ -86,5 +86,5 @@ $$
 To look at the details and all the algorithms implemented looks at  our [tesina](https://github.com/MarcoChain/Numerical-Optimization-for-Large-Scale-problems-and-Stochastic-optimization/blob/master/Relazione.pdf)
 
 > Written by [MarcoChain](https://www.linkedin.com/in/marcogullotto/).
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+
 
