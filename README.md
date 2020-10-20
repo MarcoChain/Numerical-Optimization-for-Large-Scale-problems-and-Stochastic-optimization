@@ -11,7 +11,7 @@ There are several ways in which it is possible to implement a non-linear regress
 - Hidden nodes makem up that part of the NN that introduces a non-linearity into the model. They are organized in one or more layers. There are no fixed rules to select the correct number of hidden nodes or layers: only a "trial and error" approach can find an appropriate solution to problems (for our purpose, one hidden layer is enough but the problem of the number of nodes remains).
 -   Output node, which is one and only one for a regression task. NN can acquire more than 8 one output node, but in these cases they are used in other situations and fields which are not relevant in our situation.
 
-To read more click [here](https://github.com/MarcoChain/Numerical-Optimization-for-Large-Scale-problems-and-Stochastic-optimization/blob/master/Relazione.pdf).
+> To read more click [here](https://github.com/MarcoChain/Numerical-Optimization-for-Large-Scale-problems-and-Stochastic-optimization/blob/master/Relazione.pdf).
 
 > Written by [MarcoChain](https://www.linkedin.com/in/marcogullotto/).
 
